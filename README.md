@@ -4,4 +4,4 @@
 
 ### This is a work in progress
 
-Please hava look around. The projects that I am most proud of are connect 4 and chess, both done in Ruby.
+Please have a look around. The projects that I am most proud of are connect 4 and chess, both done in Ruby.
