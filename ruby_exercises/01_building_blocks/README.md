@@ -56,6 +56,7 @@
     > end
     => ["hi", "hey", "hello"]
 ```
+
 ## Project 2 - Enumerable Methods
 ### User Stories:
 * Create a script file to house your methods and run it in IRB to test them later. Add your new methods onto the existing Enumerable module.
