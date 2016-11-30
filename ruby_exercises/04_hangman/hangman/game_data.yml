@@ -1,0 +1,68 @@
+--- !ruby/object:Game
+word: lunge
+guess: !ruby/object:Guess
+  word: lunge
+count: 2
+name: test1
+--- !ruby/object:Game
+word: helix
+guess: !ruby/object:Guess
+  word: helix
+count: 1
+name: test2
+--- !ruby/object:Game
+word: drawl
+guess: !ruby/object:Guess
+  word: drawl
+count: 1
+name: test4
+--- !ruby/object:Game
+word: nonscoring
+guess: !ruby/object:Guess
+  word: nonscoring
+count: 4
+name: test8
+--- !ruby/object:Game
+word: Ignatius
+guess: !ruby/object:Guess
+  word: Ignatius
+count: 1
+name: save9
+--- !ruby/object:Game
+word: disingenuity
+guess: !ruby/object:Guess
+  word: disingenuity
+count: 4
+name: save1
+--- !ruby/object:Game
+word: amiability
+guess:
+- a
+- _
+- _
+- _
+- _
+- _
+- _
+- _
+- _
+- _
+count: 1
+name: test8
+--- !ruby/object:Game
+word: cheerfulness
+guess:
+- _
+- _
+- e
+- _
+- _
+- _
+- _
+- _
+- _
+- _
+- _
+- _
+count: 2
+name: test1
